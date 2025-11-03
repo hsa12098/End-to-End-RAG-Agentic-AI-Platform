@@ -1,0 +1,25 @@
+# Core
+numpy
+pandas
+requests
+python-dotenv
+pydantic
+httpx
+PyYAML
+
+# LLM / RAG tooling
+langchain
+llama-index
+openai
+transformers
+sentence-transformers
+faiss-cpu
+tiktoken
+
+# API
+fastapi
+uvicorn
+
+# Utils
+tqdm
+
